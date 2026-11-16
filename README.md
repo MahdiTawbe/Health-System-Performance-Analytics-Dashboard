@@ -19,7 +19,26 @@ Coverage: 32 countries
 # Dashboard Preview
 
 ### Executive Overview
-![Toy-Store-Analytic-Dashboard](screenShots/ExecutiveOverview.png)
+![Health-System-Performance-Analytics-Dashboard](screenShots/ExecutiveOverview.png)
 
-### Sales Performance
-![Toy-Store-Analytic-Dashboard](screenShots/SalesPerformance.png)
+### Pandemic Impact
+![Health-System-Performance-Analytics-Dashboard](screenShots/PandemicImpact.png)
+
+### Elective Recovery
+![Health-System-Performance-Analytics-Dashboard](screenShots/ElectiveRecovery.png)
+
+### Health Spending
+![Health-System-Performance-Analytics-Dashboard](screenShots/HealthSpending.png)
+
+### Workforce & Burnout
+![Health-System-Performance-Analytics-Dashboard](screenShots/Workfocre&Burnout.png)
+
+### Disease Trends
+![Health-System-Performance-Analytics-Dashboard](screenShots/DiseaseTrend.png)
+
+
+
+
+
+
+
